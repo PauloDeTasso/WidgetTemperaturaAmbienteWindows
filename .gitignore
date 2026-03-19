@@ -1,0 +1,43 @@
+# Build e pasta de saída
+bin/
+obj/
+Debug/
+Release/
+
+# Configurações do Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos do VSCode (se usar)
+.vscode/
+
+# Logs e temporários
+*.log
+*.tmp
+*.vs/
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.dbmdl
+
+# Pacotes NuGet
+*.nupkg
+packages/
+*.snupkg
+.nuget/
+
+# Configurações de build do Rider / ReSharper
+.idea/
+*.DotSettings.user
+
+# Arquivos de publish e deploy
+*.publish.xml
+*.deploy/
+*.zip
+
+# Configurações de perfil local
+*.local
+*.local.user
